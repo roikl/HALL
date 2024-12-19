@@ -1,4 +1,4 @@
-#自定义代理
+#需要代理
 #数量
 #DOMAIN-SUFFIX：域名后缀匹配
 #DOMAIN：域名匹配
@@ -11,18 +11,7 @@
 #PROCESS-NAME：源进程名匹配
 #RULE-SET：Rule Provider规则匹配
 #MATCH：全匹配
-
-#国内学校 教育网
-DOMAIN-SUFFIX,edu.cn
-
-
-#PT站点
-DOMAIN-SUFFIX,hdatmos.club
-DOMAIN-SUFFIX,pttime.org
-DOMAIN-SUFFIX,soulvoice.club
-DOMAIN-SUFFIX,btschool.club
-DOMAIN-SUFFIX,dragonhd.xyz
-DOMAIN-SUFFIX,htpt.cc
-DOMAIN-SUFFIX,haidan.video
-
-
+#XXX
+DOMAIN-SUFFIX,shuiguopai.com
+#机场
+DOMAIN-SUFFIX,yiyo.io
